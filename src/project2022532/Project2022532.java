@@ -17,6 +17,7 @@ public class Project2022532 {
         // TODO code application logic here
         System.out.println("This is Ammad");
         System.out.println("my student number is 2022532");
+        System.out.println("Currently studing in CCT college");
     }
     
 }
