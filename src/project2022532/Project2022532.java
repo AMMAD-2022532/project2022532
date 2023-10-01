@@ -16,6 +16,7 @@ public class Project2022532 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This is Ammad");
+        System.out.println("my student number is 2022532");
     }
     
 }
