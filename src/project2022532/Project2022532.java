@@ -18,6 +18,7 @@ public class Project2022532 {
         System.out.println("This is Ammad");
         System.out.println("my student number is 2022532");
         System.out.println("Currently studing in CCT college");
+        System.out.println("this our java module");
     }
     
 }
